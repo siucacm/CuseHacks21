@@ -1,0 +1,16 @@
+.rating {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 5px;
+  padding-top: 30%;
+}
+
+.rating-number {
+  font-size: 32px;
+}
+
+.slider-container {
+  padding: 20px 0px;
+}
